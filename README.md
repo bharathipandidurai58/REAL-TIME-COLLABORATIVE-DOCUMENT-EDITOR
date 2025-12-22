@@ -30,3 +30,7 @@ In conclusion, the Real-Time Collaborative Document Editor demonstrates the powe
 
 ## OUTPUT
 
+<img width="1919" height="1000" alt="Image" src="https://github.com/user-attachments/assets/16bfeaed-e7c6-4ebd-a969-ead99d680ded" />
+
+<img width="1908" height="998" alt="Image" src="https://github.com/user-attachments/assets/3c113502-f26b-4be0-8e08-5eaee453f990" />
+
